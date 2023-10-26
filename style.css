@@ -89,7 +89,7 @@ body {
 
 @media (max-width: 600px) {
   #card {
-    width: 80%;
+    width: 70%;
     flex-direction: column;
   }
   #card img {
